@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @srijharao
-- 👀 I’m interested in AI, Robotics, Algorithms and Software Development
+- 👀 I’m interested in System Design, Algorithms, AI and Robotics
 - 🌱 I’m currently learning Reinforcement Learning, Machine Learning, matlab
 - 💞️ I’m looking to collaborate on Robotic science and systems
 - 📫 How to reach me at srijharao@gmail.com
