@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @srijharao
-- 👀 I’m interested in System Design, Algorithms, AI and Robotics
-- 🌱 I’m currently learning Computer Vision, Reinforcement Learning, Machine Learning
-- 💞️ I’m looking to collaborate on Data Structures & Algorithms, Computer Vision
-- 📫 How to reach me at srijharao@gmail.com
+Hi there! 👋
+I’m @srijharao, passionate about building intelligent systems that blend System Design, AI, and Robotics to solve real-world problems.
+- Current Focus: Developing expertise in Computer Vision, Reinforcement Learning, and Large Language Models (LLMs)
+- Interests: Creating practical Vision and LLM-powered solutions that simplify and enhance daily life.
+- 🤝 Open to Collaborate On: Innovative projects in AI, Vision Systems, and Autonomous Agents
+- 📫 Contact: srijharao@gmail.com
 
 <!---
 srijharao/srijharao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
